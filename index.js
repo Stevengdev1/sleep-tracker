@@ -64,3 +64,8 @@ const calculateSleepDebt = () => {
 }
 
 console.log(calculateSleepDebt())
+
+
+//eventually I would want to add the total amount of hours the user sleeps in a month  and then compare it to the total amount of hours in month so that it returns the percentage of sleep time in a month 
+
+//then also in a whole year.
