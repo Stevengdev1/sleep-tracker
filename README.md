@@ -4,3 +4,5 @@ This small program has been written in JavaScript in order to calculate the amou
 The sleep times were calculated by using:
 Arrow functions
 if/else statements
+
+The way it works is by first, the user needs to add what the total amount of sleep hours they desire each day and then they would need to add the total amount of sleep hours that they got each day. Once it reaches the end of the week the program will then calculate the total amount of sleep hours versus their ideal sleeps hours and will show the user the results.
