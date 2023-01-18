@@ -8,3 +8,5 @@ if/else statements
 The way it works is by first, the user needs to add what the total amount of sleep hours they desire each day and then they would need to add the total amount of sleep hours that they got each day. Once it reaches the end of the week the program will then calculate the total amount of sleep hours versus their ideal sleeps hours and will show the user the results.
 
 Eventually I would want to incorporate the amount of cardio done in one week as well as in month and compare it with the ideal amount.
+
+Then have it reveal a comparison of how much sleep compared to how much cardio and have it print a score to the console.
